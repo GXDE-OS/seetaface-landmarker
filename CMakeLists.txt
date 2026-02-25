@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8)
+cmake_minimum_required(VERSION 3.10)
 set(SeetaFaceLandmarker_NAME "SeetaFaceLandmarker" CACHE STRING "The SeetaFaceLandmarker library name")
 set(SeetaFaceLandmarker_VERSION_MAJOR "6")
 set(SeetaFaceLandmarker_VERSION_MINOR "0")
